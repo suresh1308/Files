@@ -1,0 +1,157 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,9253.7651877121,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+1,2011,10299.8706939935,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+2,2012,11197.5969363537,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+3,2013,11923.7526189386,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+4,2014,12549.7718312977,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+5,2015,12978.7689105655,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,13572.6199886994,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2017,14344.4212394424,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2018,15608.9670692513,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2019,16772.8431692214,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2020,17311.9980729414,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2010,4236.7443479487,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+12,2011,4493.6694656771,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+13,2012,4861.1561523634,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+14,2013,5057.2334137479,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+15,2014,5233.8823425151,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+16,2015,5464.859178008,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+17,2016,5839.8648167547,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+18,2017,6182.9221085747,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+19,2018,6675.3612941094,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+20,2019,6997.8639882409,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+21,2020,6454.3474132979,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+22,2010,48466.6576026922,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+23,2011,49882.5581321495,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+24,2012,51602.9310457907,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+25,2013,53106.5367672165,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+26,2014,55049.9883272312,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+27,2015,56863.3714957652,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+28,2016,58021.4004997125,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+29,2017,60109.6557260477,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+30,2018,63064.4184096728,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+31,2019,65279.529026095,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+32,2020,63543.577788724,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+33,2010,1337705000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+34,2011,1344130000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+35,2012,1350695000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+36,2013,1357380000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+37,2014,1364270000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+38,2015,1371220000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+39,2016,1378665000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+40,2017,1386395000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+41,2018,1392730000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+42,2019,1397715000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+43,2020,1402112000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+44,2010,1234281163.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+45,2011,1250287939.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+46,2012,1265780243.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+47,2013,1280842119.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+48,2014,1295600768.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+49,2015,1310152392.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+50,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+51,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+52,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+53,2019,1366417756.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+54,2020,1380004385.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+55,2010,309327143.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+56,2011,311583481.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+57,2012,313877662.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+58,2013,316059947.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+59,2014,318386329.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+60,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+61,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+62,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+63,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+64,2019,328329953.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+65,2020,329484123.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+66,2010,74.409,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+67,2011,74.708,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+68,2012,75.013,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+69,2013,75.321,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+70,2014,75.629,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+71,2015,75.928,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+72,2016,76.21,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+73,2017,76.47,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+74,2018,76.704,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+75,2019,76.912,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+76,2010,66.693,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+77,2011,67.13,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+78,2012,67.545,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+79,2013,67.931,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+80,2014,68.286,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+81,2015,68.607,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+82,2016,68.897,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+83,2017,69.165,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+84,2018,69.416,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+85,2019,69.656,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+86,2010,78.5414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+87,2011,78.6414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+88,2012,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+89,2013,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+90,2014,78.8414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+91,2015,78.6902439024,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+92,2016,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+93,2017,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+94,2018,78.6390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+95,2019,78.787804878,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+96,2010,99.7,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+97,2011,99.8572235107,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+98,2012,99.9648742676,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+99,2013,99.9970092773,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+100,2014,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+101,2015,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+102,2016,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+103,2017,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+104,2018,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+105,2019,100.0,EG.ELC.ACCS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+106,2010,76.3,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+107,2011,67.6,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+108,2012,79.9,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+109,2013,80.7380447388,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+110,2014,83.5852127075,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+111,2015,88.0,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+112,2016,89.5348815918,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+113,2017,92.4568328857,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+114,2018,95.1932983398,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+115,2019,97.815284729,EG.ELC.ACCS.ZS,IND,India,South Asia,Lower middle income,IBRD
+116,2010,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+117,2011,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+118,2012,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+119,2013,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+120,2014,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+121,2015,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+122,2016,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+123,2017,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+124,2018,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+125,2019,100.0,EG.ELC.ACCS.ZS,USA,United States,North America,High income,Not classified
+126,2010,10.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+127,2011,9.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+128,2012,9.0,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+129,2013,8.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+130,2014,8.4,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+131,2015,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+132,2016,8.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+133,2017,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+134,2018,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+135,2019,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+136,2010,14.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+137,2011,14.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+138,2012,14.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+139,2013,13.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+140,2014,12.8,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+141,2015,12.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+142,2016,12.1,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+143,2017,12.0,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+144,2018,12.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+145,2019,12.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+146,2010,13.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+147,2011,13.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+148,2012,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+149,2013,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+150,2014,14.0,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+151,2015,14.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+152,2016,15.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+153,2017,15.9,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+154,2018,15.7,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+155,2019,16.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
