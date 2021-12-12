@@ -1,0 +1,408 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,11.8699998856,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+1,2011,10.7700004578,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+2,2012,10.6899995804,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+3,2013,10.5900001526,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+4,2014,10.4899997711,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+5,2015,10.3800001144,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+6,2016,10.279999733,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+7,2017,10.1599998474,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+8,2018,9.8800001144,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+9,2019,9.6000003815,SL.AGR.EMPL.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+10,2010,1.2699999809,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+11,2011,0.6399999857,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+12,2012,0.6200000048000001,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+13,2013,0.6200000048000001,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+14,2014,0.5500000119,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+15,2015,0.2599999905,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+16,2016,0.1299999952,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+17,2017,0.0599999987,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+18,2018,0.1000000015,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+19,2019,0.0599999987,SL.AGR.EMPL.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+20,2010,3.2300000191000002,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+21,2011,2.8199999332,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+22,2012,2.7999999523,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+23,2013,2.6199998856,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+24,2014,2.7999999523,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+25,2015,2.6400001049,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+26,2016,2.6199998856,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+27,2017,2.5999999045999997,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+28,2018,2.6199998856,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+29,2019,2.5599999428,SL.AGR.EMPL.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+30,2010,12.6599998474,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+31,2011,11.9899997711,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+32,2012,11.470000267,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+33,2013,11.1700000763,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+34,2014,10.3400001526,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+35,2015,10.1999998093,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+36,2016,10.1400003433,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+37,2017,9.4600000381,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+38,2018,9.2600002289,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+39,2019,9.0799999237,SL.AGR.EMPL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+40,2010,1.8099999428,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+41,2011,1.7899999619,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+42,2012,1.75,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+43,2013,1.7799999714,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+44,2014,1.7100000381,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+45,2015,1.6399999857,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+46,2016,1.5800000429,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+47,2017,1.5199999809,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+48,2018,1.4900000095,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+49,2019,1.5099999905,SL.AGR.EMPL.ZS,CAN,Canada,North America,High income,Not classified
+50,2010,36.7000007629,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+51,2011,34.7999992371,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+52,2012,33.5999984741,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+53,2013,31.3999996185,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+54,2014,29.5,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+55,2015,28.5900001526,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+56,2016,27.7000007629,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+57,2017,26.9799995422,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+58,2018,26.0699996948,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+59,2019,25.3299999237,SL.AGR.EMPL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+60,2010,51.5200004578,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+61,2011,49.2599983215,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+62,2012,47.0,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+63,2013,46.5,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+64,2014,45.8899993896,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+65,2015,45.2599983215,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+66,2016,44.5600013733,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+67,2017,43.9300003052,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+68,2018,43.3300018311,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+69,2019,42.5999984741,SL.AGR.EMPL.ZS,IND,India,South Asia,Lower middle income,IBRD
+70,2010,28.2800006866,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+71,2011,26.4500007629,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+72,2012,25.5400009155,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+73,2013,24.1900005341,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+74,2014,20.9699993134,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+75,2015,18.0100002289,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+76,2016,17.2600002289,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+77,2017,16.5599994659,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+78,2018,15.7700004578,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+79,2019,14.8599996567,SL.AGR.EMPL.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+80,2010,7.75,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+81,2011,7.6900000572,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+82,2012,7.3299999237,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+83,2013,6.9899997711,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+84,2014,6.7199997902,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+85,2015,6.7100000381000005,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+86,2016,6.7199997902,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+87,2017,5.9000000954,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+88,2018,5.8800001144,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+89,2019,5.8299999237,SL.AGR.EMPL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+90,2010,1.4199999571,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+91,2011,1.4500000477000001,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+92,2012,1.3799999952,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+93,2013,1.3200000525,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+94,2014,1.3500000238,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+95,2015,1.4400000572,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+96,2016,1.4299999475,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+97,2017,1.4299999475,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+98,2018,1.3700000048,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+99,2019,1.3600000143,SL.AGR.EMPL.ZS,USA,United States,North America,High income,Not classified
+100,2010,2381740.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+101,2011,2381740.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+102,2012,2381740.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+103,2013,2381740.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+104,2014,2381740.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+105,2015,2381741.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+106,2016,2381741.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+107,2017,2381741.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+108,2018,2381741.0,AG.SRF.TOTL.K2,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+109,2010,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+110,2011,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+111,2012,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+112,2013,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+113,2014,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+114,2015,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+115,2016,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+116,2017,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+117,2018,2780400.0,AG.SRF.TOTL.K2,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+118,2010,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+119,2011,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+120,2012,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+121,2013,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+122,2014,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+123,2015,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+124,2016,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+125,2017,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+126,2018,7741220.0,AG.SRF.TOTL.K2,AUS,Australia,East Asia & Pacific,High income,Not classified
+127,2010,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+128,2011,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+129,2012,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+130,2013,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+131,2014,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+132,2015,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+133,2016,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+134,2017,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+135,2018,8515770.0,AG.SRF.TOTL.K2,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+136,2010,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+137,2011,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+138,2012,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+139,2013,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+140,2014,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+141,2015,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+142,2016,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+143,2017,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+144,2018,9879750.0,AG.SRF.TOTL.K2,CAN,Canada,North America,High income,Not classified
+145,2010,9600000.7,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+146,2011,9600000.9,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+147,2012,9600000.9,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+148,2013,9600001.3,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+149,2014,9600006.3,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+150,2015,9600007.4,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+151,2016,9600010.5,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+152,2017,9600010.8,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+153,2018,9600012.9,AG.SRF.TOTL.K2,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+154,2010,3287260.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+155,2011,3287260.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+156,2012,3287260.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+157,2013,3287260.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+158,2014,3287259.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+159,2015,3287259.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+160,2016,3287259.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+161,2017,3287259.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+162,2018,3287259.0,AG.SRF.TOTL.K2,IND,India,South Asia,Lower middle income,IBRD
+163,2010,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+164,2011,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+165,2012,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+166,2013,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+167,2014,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+168,2015,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+169,2016,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+170,2017,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+171,2018,2724902.0,AG.SRF.TOTL.K2,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+172,2010,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+173,2011,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+174,2012,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+175,2013,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+176,2014,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+177,2015,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+178,2016,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+179,2017,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+180,2018,17098250.0,AG.SRF.TOTL.K2,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+181,2010,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+182,2011,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+183,2012,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+184,2013,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+185,2014,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+186,2015,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+187,2016,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+188,2017,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+189,2018,9831510.0,AG.SRF.TOTL.K2,USA,United States,North America,High income,Not classified
+190,2010,4211370.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+191,2011,4247550.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+192,2012,5137470.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+193,2013,4912551.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+194,2014,3435535.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+195,2015,3761257.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+196,2016,3445225.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+197,2017,3478172.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+198,2018,6064881.0,AG.PRD.CREL.MT,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+199,2010,40266747.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+200,2011,50670016.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+201,2012,47449657.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+202,2013,50703913.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+203,2014,50874215.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+204,2015,55979853.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+205,2016,61147070.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+206,2017,76396702.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+207,2018,70591016.0,AG.PRD.CREL.MT,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+208,2010,33464874.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+209,2011,39973082.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+210,2012,43362426.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+211,2013,35589236.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+212,2014,38419626.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+213,2015,37194952.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+214,2016,35229204.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+215,2017,50048408.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+216,2018,33860883.0,AG.PRD.CREL.MT,AUS,Australia,East Asia & Pacific,High income,Not classified
+217,2010,75160152.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+218,2011,77586276.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+219,2012,89908244.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+220,2013,100901726.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+221,2014,101402184.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+222,2015,106027826.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+223,2016,84167849.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+224,2017,117979368.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+225,2018,103064737.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+226,2010,46122200.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+227,2011,48337200.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+228,2012,51839900.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+229,2013,66528601.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+230,2014,51683501.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+231,2015,53563000.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+232,2016,58904067.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+233,2017,56377700.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+234,2018,58095800.0,AG.PRD.CREL.MT,CAN,Canada,North America,High income,Not classified
+235,2010,497920509.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+236,2011,521171808.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+237,2012,541163568.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+238,2013,554422547.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+239,2014,559325222.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+240,2015,623197344.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+241,2016,618011522.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+242,2017,619879237.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+243,2018,612170193.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+244,2010,267838308.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+245,2011,287860000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+246,2012,293290000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+247,2013,294909510.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+248,2014,296010000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+249,2015,284333000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+250,2016,297850000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+251,2017,313640000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+252,2018,318320000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+253,2010,12115916.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+254,2011,26825598.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+255,2012,12788631.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+256,2013,18157040.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+257,2014,17110959.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+258,2015,18585932.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+259,2016,20410625.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+260,2017,20129018.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+261,2018,20196034.0,AG.PRD.CREL.MT,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+262,2010,59619074.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+263,2011,91780915.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+264,2012,68753479.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+265,2013,90364971.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+266,2014,103138503.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+267,2015,102447609.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+268,2016,117755457.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+269,2017,131295318.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+270,2018,109837875.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+271,2010,401126330.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+272,2011,385545256.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+273,2012,356210124.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+274,2013,434308450.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+275,2014,442849090.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+276,2015,431870788.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+277,2016,503465267.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+278,2017,466847085.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+279,2018,467951140.0,AG.PRD.CREL.MT,USA,United States,North America,High income,Not classified
+280,2010,2856583.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+281,2011,2584749.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+282,2012,3062463.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+283,2013,2709432.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+284,2014,2509193.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+285,2015,2686254.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+286,2016,3376433.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+287,2017,3512136.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+288,2018,3448395.0,AG.LND.CREL.HA,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+289,2010,8304862.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+290,2011,10986263.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+291,2012,11444040.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+292,2013,10570463.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+293,2014,10518090.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+294,2015,11712970.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+295,2016,11750567.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+296,2017,14134792.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+297,2018,15111246.0,AG.LND.CREL.HA,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+298,2010,20141256.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+299,2011,19057341.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+300,2012,19431383.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+301,2013,18381762.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+302,2014,17970210.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+303,2015,18346326.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+304,2016,16976392.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+305,2017,18714853.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+306,2018,16635179.0,AG.LND.CREL.HA,AUS,Australia,East Asia & Pacific,High income,Not classified
+307,2010,18601205.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+308,2011,19216441.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+309,2012,19611226.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+310,2013,20906133.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+311,2014,21851934.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+312,2015,21203747.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+313,2016,20128517.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+314,2017,22646962.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+315,2018,21445930.0,AG.LND.CREL.HA,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+316,2010,13141600.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+317,2011,13536700.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+318,2012,14988396.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+319,2013,15981384.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+320,2014,14144484.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+321,2015,14554200.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+322,2016,13797513.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+323,2017,13830500.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+324,2018,14978100.0,AG.LND.CREL.HA,CAN,Canada,North America,High income,Not classified
+325,2010,90102668.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+326,2011,91283496.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+327,2012,92870198.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+328,2013,94064410.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+329,2014,94910483.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+330,2015,105693229.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+331,2016,103355244.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+332,2017,102822866.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+333,2018,100662708.0,AG.LND.CREL.HA,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+334,2010,100075800.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+335,2011,100625700.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+336,2012,98969000.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+337,2013,99299950.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+338,2014,99988240.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+339,2015,99533000.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+340,2016,99020000.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+341,2017,99170000.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+342,2018,98008000.0,AG.LND.CREL.HA,IND,India,South Asia,Lower middle income,IBRD
+343,2010,15068400.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+344,2011,15886231.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+345,2012,14784092.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+346,2013,15586966.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+347,2014,14590623.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+348,2015,14542276.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+349,2016,15144296.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+350,2017,14854952.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+351,2018,14856767.0,AG.LND.CREL.HA,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+352,2010,32353784.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+353,2011,40606421.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+354,2012,36986403.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+355,2013,40323672.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+356,2014,42205520.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+357,2015,42839695.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+358,2016,44423536.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+359,2017,44246538.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+360,2018,41983108.0,AG.LND.CREL.HA,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+361,2010,57483702.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+362,2011,56668632.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+363,2012,60253274.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+364,2013,59486800.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+365,2014,57979030.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+366,2015,58125147.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+367,2016,58445045.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+368,2017,53165078.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+369,2018,53839362.0,AG.LND.CREL.HA,USA,United States,North America,High income,Not classified
+370,2010,2.3812539276,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+371,2011,2.3847733643,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+372,2012,2.5192405755,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+373,2013,2.6296331294,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+374,2014,2.7425333687,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+375,2015,2.9314195154,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+376,2016,3.0476351662,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+377,2017,3.1604126047,AG.LND.IRIG.AG.ZS,DZA,Algeria,Middle East & North Africa,Lower middle income,IBRD
+378,2011,1.4580425004,AG.LND.IRIG.AG.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+379,2018,0.9350626479,AG.LND.IRIG.AG.ZS,ARG,Argentina,Latin America & Caribbean ,Upper middle income,IBRD
+380,2010,0.4891437195,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+381,2011,0.49555565090000003,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+382,2012,0.5531213508,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+383,2013,0.6396341873,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+384,2014,0.6306503607,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+385,2015,0.6173463672,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+386,2016,0.6266746837,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+387,2017,0.603490239,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+388,2018,0.6402986946,AG.LND.IRIG.AG.ZS,AUS,Australia,East Asia & Pacific,High income,Not classified
+389,2017,2.9141340754,AG.LND.IRIG.AG.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+390,2010,1.3212079616,AG.LND.IRIG.AG.ZS,CAN,Canada,North America,High income,Not classified
+391,2015,1.5598861775000001,AG.LND.IRIG.AG.ZS,CAN,Canada,North America,High income,Not classified
+392,2011,10.2067537921,AG.LND.IRIG.AG.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+393,2010,34.4923791439,AG.LND.IRIG.AG.ZS,IND,India,South Asia,Lower middle income,IBRD
+394,2011,35.3987866644,AG.LND.IRIG.AG.ZS,IND,India,South Asia,Lower middle income,IBRD
+395,2012,36.3294775164,AG.LND.IRIG.AG.ZS,IND,India,South Asia,Lower middle income,IBRD
+396,2013,36.7856069628,AG.LND.IRIG.AG.ZS,IND,India,South Asia,Lower middle income,IBRD
+397,2014,37.9009687237,AG.LND.IRIG.AG.ZS,IND,India,South Asia,Lower middle income,IBRD
+398,2015,38.0594855127,AG.LND.IRIG.AG.ZS,IND,India,South Asia,Lower middle income,IBRD
+399,2010,0.5825149727,AG.LND.IRIG.AG.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+400,2014,0.7850113976,AG.LND.IRIG.AG.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+401,2015,0.7963573426,AG.LND.IRIG.AG.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+402,2016,0.8093243638000001,AG.LND.IRIG.AG.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+403,2017,0.8211316761,AG.LND.IRIG.AG.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+404,2018,0.8176859003,AG.LND.IRIG.AG.ZS,KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,IBRD
+405,2012,5.6043318799,AG.LND.IRIG.AG.ZS,USA,United States,North America,High income,Not classified
+406,2017,5.785517294,AG.LND.IRIG.AG.ZS,USA,United States,North America,High income,Not classified
